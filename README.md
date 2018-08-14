@@ -56,7 +56,11 @@
    由补码求真值的方法：1>按权累加 
                      2>求它的补码得到原码，按权求真值。
                      
+   补码的位权：
+   ![Loading...](https://github.com/BasenLi/Principle-of-Microcomputer/blob/master/src/Photo/%E4%BD%8D%E6%9D%83.png?raw=true)
+                     
  (8)补码的运算规则：
+ ![Loading...](https://github.com/BasenLi/Principle-of-Microcomputer/blob/master/src/Photo/%E8%A1%A5%E7%A0%81%E8%BF%90%E7%AE%97%E8%A7%84%E5%88%99.png?raw=true)
  
  (9)如何判断运算时带符号数的溢出：
    运算时计算符号位的进位记为C7，计算数值位的最高位记为C6，再用C6⊕C7，如果计算结果为1，则表明运算会溢出。
