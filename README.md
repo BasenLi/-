@@ -99,7 +99,7 @@
  
  (11)逻辑运算与逻辑基本逻辑电路：
  
-   ![Loading...]()
+   ![Loading...](https://github.com/BasenLi/Principle-of-Microcomputer/blob/master/src/Photo/%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E4%B8%8E%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF.jpg?raw=true)
  
  (12)国际常用的编码：
  
