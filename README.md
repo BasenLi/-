@@ -81,9 +81,25 @@
    
    >在微型计算机中，如果存在运算溢出，会将微处理器中的OF标志位置1,。
    
- (10)浮点数在计算机中用科学计数法表示。
+ (10)浮点数
+ 
+   >浮点数在计算机中用科学计数法表示。
+ 
+   ![Loading...](https://github.com/BasenLi/Principle-of-Microcomputer/blob/master/src/Photo/%E6%B5%AE%E7%82%B9%E6%95%B0%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95.png?raw=true)
+   
+   >浮点数在计算机中按照IEEE754规格存储.
+   
+   ![Loading...](https://github.com/BasenLi/Principle-of-Microcomputer/blob/master/src/Photo/%E6%B5%AE%E7%82%B9%E6%95%B0%E5%AD%98%E5%82%A8%E8%A7%84%E6%A0%BC.png?raw=true)
+   
+   >浮点数的存储格式按照：符号位 + 阶码（以移码表示） + 小数值
+   
+   >另外，浮点数规则有两个意外，数0.0存储为全0。无限大数的阶码存储方式为全1，尾数部分为全0，符号位指示无限大或负无限大。
+   
+   ![Loading...](https://github.com/BasenLi/Principle-of-Microcomputer/blob/master/src/Photo/%E6%B5%AE%E7%82%B9%E6%95%B0%E5%AD%98%E5%82%A8%E6%96%B9%E5%BC%8F.png?raw=true)
  
  (11)逻辑运算与逻辑基本逻辑电路：
+ 
+   ![Loading...]()
  
  (12)国际常用的编码：
  
